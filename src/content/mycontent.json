@@ -12,7 +12,7 @@
 
 	"AboutImage": "",
 	"AboutContent": [
-		"I’m a Software Engineering masters student. Looking for Full-time opportunities starting May 2021 in roles aligned with my resume.",
+		"I’m a Software Systems masters student at BITS Pilani (batch of 2021). I am Looking for Full-time opportunities starting May 2021 in roles that seem fit to my profile.",
 		"Code tinkerer, Roboticist & Imagineer, I believe in innovation, creation and love to get my hands dirty.",
 		"Robotics is my hobby. A die-hard fan of Elon Musk.",
         "I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can.",
@@ -26,7 +26,7 @@
 	"InternshipsStartLine": "Previously, I have worked with :",
 	"InternShips": [{
 			"name": "TATA Consultancy Services",
-			"link": "#"
+			"link": ""
         },
         {
 			"name": "Assistant System Engineer | January 2017 - June 2018 | Pune, India.",
@@ -45,8 +45,8 @@
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
-	"CV": "",
-	"Resume": "",
+	"CV": "https://drive.google.com/file/d/19B0eH3py73i5P6nwSs84VUPnmWJPKJmK/view?usp=sharing",
+	"Resume": "https://drive.google.com/file/d/19B0eH3py73i5P6nwSs84VUPnmWJPKJmK/view?usp=sharing",
 
 	"emailid": "mailto:bubai.suprakash@gmail.com",
 	"linkedin": "https://www.linkedin.com/in/suprakash-mukherjee-45626aa4/",
