@@ -4,18 +4,19 @@
 	"Description": [
 		"Student at BITS Pilani, batch of 2021.",
 		"Pursuing Masters in Engineering in Software Systems from the Department of CSIS, BITS Pilani - Pilani Campus.",
-		"I grab every chance I get to travel, learn and create."
+        "I grab every chance I get to travel, learn and create."
+        
 	],
 	"MainImage": "https://i.imgur.com/hqSKvc9.jpg",
 	"BackgroundURL": "",
 
 	"AboutImage": "",
 	"AboutContent": [
-		"I’m a Software Engineering major.",
-		"Code tinkerer, Roboticist & Imagineer, I believe in innovation, creation and building the non-existing.",
-		"I am passionate about Robotics and Human Psychology (though, never studied them formally). A die-hard fan of Elon Musk.",
+		"I’m a Software Engineering masters student. Looking for Full-time opportunities starting May 2021 in roles aligned with my resume.",
+		"Code tinkerer, Roboticist & Imagineer, I believe in innovation, creation and love to get my hands dirty.",
+		"Robotics is my hobby. A die-hard fan of Elon Musk.",
         "I love the way the concept of \"work\" has evolved over the past decades, and hence would love to travel and work together whenever I can.",
-        "If you want to know more or wish to collaborate, go to my CV section or contact me directly through the contact details."
+        "If you want to know more or wish to collaborate, head to my CV section or contact me directly through the contact details."
 	],
 
 	"WorkContent": [
@@ -25,26 +26,22 @@
 	"InternshipsStartLine": "Previously, I have worked with :",
 	"InternShips": [{
 			"name": "TATA Consultancy Services",
-			"link": "www.tcs.com"
+			"link": "#"
         },
         {
-			"name": "Duration : January 2017 - June 2018",
+			"name": "Assistant System Engineer | January 2017 - June 2018 | Pune, India.",
 			"link": ""
         },
         {
-			"name": "",
+			"name": "Project : In-Vehicle infotainment system development for Japanese Auto-giant - Nissan Motor Corportation.",
 			"link": ""
-        },
-        {
-			"name": "",
-			"link": ""
-		}
+        }
 	],
-	"ProjectsStartLine": "Some of the side projects I did can be found here :",
+	"ProjectsStartLine": "Publictions :",
 	"Projects": [{
 			"name": "A Scheme for QR Code Based Smart Door Locks Security System Using an ARM Computer | Published Nov 2016, Springer Singapore.",
 			"link": "https://doi.org/10.1007/978-981-10-2035-3_62"
-		}
+        }
 	],
 
 	"CVStartLine": "I am always open to collaborations with impactful work. Feel free to reach out if you want to work together :) ",
